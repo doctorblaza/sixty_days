@@ -54,3 +54,7 @@ licensed under **CC-BY 3.0**: https://creativecommons.org/licenses/by/3.0/
 
 Settings → Pages → Source: Deploy from a branch → Branch: main, /(root).
 每次 push 自动重新部署。
+
+## Trailer / 预告片
+
+- [六十天竖屏介绍 v1（43 秒，竖屏 720×1280）](trailer/六十天介绍v1.mp4)：水仙式水彩素描风 7 镜剪辑，配乐《Heartbreaking》哀伤钢琴；尾卡附游戏地址。
